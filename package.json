@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cypress": "latest",
+    "@badeball/cypress-cucumber-preprocessor": "latest",
+    "@cypress/webpack-preprocessor": "latest",
+    "cypress-multi-reporters": "latest",
+    "ts-loader": "latest",
+    "typescript": "latest",
+    "webpack": "latest"
+  }
+}

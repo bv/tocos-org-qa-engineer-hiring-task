@@ -1,0 +1,10 @@
+{
+  "html": {
+    "enabled": true
+  },
+  "json": {
+    "enabled": true
+  },
+  "filterSpecs": true,
+  "omitFiltered": true
+}
